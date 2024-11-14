@@ -1,0 +1,501 @@
+﻿IP Address,Processor_Name,CPU_Speed,CPU_Core,CPU_MThread,CPU_Utilization,RAM_Size_GB,RAM_Utilization,Storage_Size_GB,Storage_Used_Size_GB,Evn_Type,OS_Name,OS_Version_Name,SubNet,Server Type
+192.168.0.316,Intel Core 2 Extreme QX9775,3.2GHz,4,8,3,8GB,85,1024,344,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.320,Intel Core 2 Extreme QX9775,3.2GHz,4,8,42,8GB,41,128,233,Testing,Linux,Fedora,255.255 255.0,Physical
+192.168.0.322,Intel Core 2 Extreme QX9775,3.2GHz,4,8,94,8GB,93,4048,888,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.324,Intel Core 2 Extreme QX9775,3.2GHz,4,8,11,8GB,75,512,4689,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.428,Intel Core i7-4790K,4.0GHz,4,8,2,12GB,40,128,4556,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.236,Intel Core 2 Extreme QX9775,3.2GHz,4,8,43,8GB,65,2024,367,Testing,Linux,Fedora,255.255 255.0,Physical
+192.168.1.240,Intel Core 2 Extreme QX9775,3.2GHz,4,8,52,8GB,50,256,180,Testing,Linux,SUSE,255.255 255.0,Physical
+192.168.1.252,Intel Core 2 Extreme QX9775,3.2GHz,4,8,74,8GB,99,256,46,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.296,Intel Core i7-4770K,3.5GHz,4,8,58,12GB,8,2024,66778,Testing,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.300,Intel Core i7-4770K,3.5GHz,4,8,68,12GB,6,512,88,Testing,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.304,Intel Core i7-4770K,3.5GHz,4,8,3,12GB,23,128,344,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.312,Intel Core i7-4770K,3.5GHz,4,8,42,12GB,82,1024,4556,Testing,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.652,Intel Core 2 Extreme QX9775,3.2GHz,4,8,1,8GB,70,128,347,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.656,Intel Core 2 Extreme QX9775,3.2GHz,4,8,64,8GB,1,2024,33666,Testing,Linux,Debian,255.255 255.0,Physical
+192.168.1.668,Intel Core 2 Extreme QX9775,3.2GHz,4,8,67,8GB,68,1024,180,Testing,Linux,Fedora,255.255 255.0,Physical
+192.168.1.712,Intel Core i7-4770K,3.5GHz,4,8,4,12GB,58,128,2323,Testing,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.724,Intel Core i7-4770K,3.5GHz,4,8,87,12GB,86,512,233,Testing,Linux,Debian,255.255 255.0,Physical
+192.168.1.940,Intel Core 2 Extreme QX9775,3.2GHz,4,8,42,8GB,81,128,4689,Testing,Linux,Fedora,255.255 255.0,Physical
+192.168.1.1004,Intel Core i7-4770K,3.5GHz,4,8,8,12GB,52,2024,658,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.1008,Intel Core i7-4770K,3.5GHz,4,8,82,12GB,23,2024,233,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.4,Intel Xeon E5-1650 V4,3.6GHz,6,12,5,16 GB,24,256,4689,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.6,Intel Xeon E5-1650 V4,3.6GHz,6,12,91,16 GB,42,1024,347,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.32,Intel Xeon E5-1650 V3,3.5GHz,6,12,92,16 GB,96,1024,340,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.36,Intel Xeon E5-1650 V3,3.5GHz,6,12,65,16 GB,12,256,180,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.0.42,Intel Xeon E5-1650 V3,3.5GHz,6,12,65,16 GB,89,128,347,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.44,Intel Xeon E5-1650 V3,3.5GHz,6,12,68,16 GB,32,1024,4689,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.54,Intel Core i7-5930K,3.5GHz,6,12,35,16 GB,22,1024,347,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.60,Intel Core i7-5930K,3.5GHz,6,12,55,16 GB,27,2024,,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.66,Intel Core i7-5930K,3.5GHz,6,12,45,16 GB,36,128,367,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.204,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,5,16 GB,73,2024,88,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.208,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,74,16 GB,36,4048,4577,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.214,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,43,16 GB,53,256,347,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.336,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,38,16 GB,22,512,344,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.0.380,Intel Core i7-980,3.33GHz,6,12,4,16 GB,59,512,180,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.382,Intel Core i7-980,3.33GHz,6,12,81,16 GB,39,2024,658,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.396,Intel Core i7-3930K,3.2GHz,6,12,54,16 GB,84,128,658,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.402,Intel Core i7-3930K,3.2GHz,6,12,200,16 GB,65,4048,66778,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.44,Intel Xeon E5-1650 V4,3.6GHz,6,12,65,16 GB,34,256,906,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.64,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,17,16 GB,95,512,344,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.104,Intel Xeon E5-1650 V3,3.5GHz,6,12,18,16 GB,21,1024,33,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.108,Intel Xeon E5-1650 V3,3.5GHz,6,12,55,16 GB,96,2024,66778,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.116,Intel Xeon E5-1650 V3,3.5GHz,6,12,,16 GB,53,4048,906,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.124,Intel Xeon E5-1650 V3,3.5GHz,6,12,6,16 GB,42,2024,33666,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.140,Intel Core i7-5930K,3.5GHz,6,12,5,16 GB,9,1024,46,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.152,Intel Core i7-5930K,3.5GHz,6,12,15,16 GB,85,1024,233,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.164,Intel Core i7-5930K,3.5GHz,6,12,10,16 GB,29,1024,4577,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.168,Intel Core i7-5930K,3.5GHz,6,12,9,16 GB,51,256,46,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.284,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,58,16 GB,54,256,906,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.360,Intel Core i7-980,3.33GHz,6,12,65,16 GB,98,256,434,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.372,Intel Core i7-980,3.33GHz,6,12,50,16 GB,37,512,888,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.396,Intel Core i7-3930K,3.2GHz,6,12,33,16 GB,79,512,4577,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.408,Intel Core i7-3930K,3.2GHz,6,12,56,16 GB,39,1024,233,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.692,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,97,16 GB,85,4048,46,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.700,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,68,16 GB,45,128,233,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.704,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,68,16 GB,22,4048,4577,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.708,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,10,16 GB,39,512,2323,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.972,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,17,16 GB,,128,33,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.976,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,82,16 GB,6,128,66778,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.988,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,57,16 GB,90,4048,367,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.1052,Intel Core i7-980,3.33GHz,6,12,73,16 GB,46,1024,344,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.192,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,94,8GB,38,1024,347,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.200,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,56,8GB,61,512,434,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.202,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,96,8GB,15,256,888,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.256,Intel Xeon E5-2650,2.0GHz,8,16,65,12GB,52,1024,4689,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.262,Intel Xeon E5-2650,2.0GHz,8,16,81,12GB,40,4048,2323,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.264,Intel Xeon E5-2650,2.0GHz,8,16,90,12GB,67,2024,33,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.278,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,84,12GB,71,128,434,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.290,Intel Core i7-5960X,3.0GHz,8,16,13,12GB,884,2024,46,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.306,Intel Xeon E5-2640 V3,2.6GHz,8,16,92,8GB,68,512,434,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.308,Intel Xeon E5-2640 V3,2.6GHz,8,16,31,8GB,74,128,233,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.310,Intel Xeon E5-2640 V3,2.6GHz,8,16,2,8GB,97,2024,906,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.358,Intel Xeon E5-2687W,3.1GHz,8,16,4,8GB,58,4048,33666,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.392,Intel Core i7-7820X,3.6GHz,8,16,35,12GB,92,4048,434,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.416,Intel Xeon E5-2630 V3,2.4GHz,8,16,96,8GB,22,128,4556,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.420,Intel Xeon E5-2630 V3,2.4GHz,8,16,6,8GB,15,256,233,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.0.422,Intel Xeon E5-2630 V3,2.4GHz,8,16,45,8GB,2,1024,233,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.424,Intel Xeon E5-2630 V3,2.4GHz,8,16,87,8GB,17,128,347,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.438,Intel Xeon E5-2640 V2,2.0GHz,8,16,33,12GB,13,4048,347,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.440,Intel Xeon E5-2640 V2,2.0GHz,8,16,54,12GB,94,512,367,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.444,Intel Xeon E5-2640 V2,2.0GHz,8,16,91,12GB,34,2024,180,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.84,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,75,8GB,38,512,233,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.96,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,59,8GB,,4048,180,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.100,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,32,8GB,64,2024,658,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.224,Intel Xeon E5-2640 V3,2.6GHz,8,16,38,8GB,88,256,33666,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.232,Intel Xeon E5-2640 V3,2.6GHz,8,16,15,8GB,9,2024,434,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.316,Intel Xeon E5-2687W,3.1GHz,8,16,68,8GB,87,4048,66778,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.320,Intel Xeon E5-2687W,3.1GHz,8,16,97,8GB,28,2024,4577,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.332,Intel Xeon E5-2687W,3.1GHz,8,16,5,8GB,87,256,4689,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.376,Intel Core i7-7820X,3.6GHz,8,16,56,12GB,77,2024,347,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.380,Intel Core i7-7820X,3.6GHz,8,16,71,12GB,29,256,2323,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.388,Intel Core i7-7820X,3.6GHz,8,16,44,12GB,52,2024,906,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.444,Intel Xeon E5-2630 V3,2.4GHz,8,16,57,8GB,82,256,2323,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.544,Intel Xeon E5-2650,2.0GHz,8,16,24,12GB,26,256,340,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.576,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,20,12GB,47,128,340,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.580,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,16,12GB,41,512,2323,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.584,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,Eight Core,16,74,12GB,90,1024,2323,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.588,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,33,12GB,54,4048,33666,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.592,Intel Core i7-5960X,3.0GHz,8,16,70,12GB,52,4048,180,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.596,Intel Core i7-5960X,3.0GHz,8,16,,12GB,,512,434,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.636,Intel Xeon E5-2640 V3,2.6GHz,8,16,35,8GB,82,4048,367,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.644,Intel Xeon E5-2640 V3,2.6GHz,8,16,4,8GB,31,4048,,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.744,Intel Xeon E5-2687W,3.1GHz,8,16,78,8GB,44,4048,33666,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.748,Intel Xeon E5-2687W,3.1GHz,8,16,10,8GB,4,1024,2323,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.816,Intel Xeon E5-2650,2.0GHz,8,16,38,12GB,14,256,4577,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.824,Intel Xeon E5-2650,2.0GHz,8,16,0,12GB,51,2024,658,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.828,Intel Xeon E5-2650,2.0GHz,8,16,53,12GB,60,1024,4689,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.852,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,7,12GB,33,256,658,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.856,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,73,12GB,96,1024,888,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.864,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,76,12GB,37,4048,347,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.872,Intel Core i7-5960X,3.0GHz,8,16,25,12GB,31,512,33,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.876,Intel Core i7-5960X,3.0GHz,8,16,47,12GB,76,4048,340,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.928,Intel Xeon E5-2640 V3,2.6GHz,8,16,83,8GB,79,128,658,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.1028,Intel Xeon E5-2687W,3.1GHz,8,16,88,8GB,27,1024,4577,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.1092,Intel Xeon E5-2650,2.0GHz,8,16,63,12GB,84,128,367,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.1096,Intel Xeon E5-2650,2.0GHz,8,16,27,12GB,16,1024,344,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.1100,Intel Xeon E5-2650,2.0GHz,8,16,93,12GB,72,512,434,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.1108,Intel Xeon E5-2650,2.0GHz,8,16,90,12GB,1,1024,33666,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.1132,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,60,12GB,90,1024,340,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.1136,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,117,12GB,53,256,4556,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.1140,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,79,12GB,76,2024,88,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.120,Intel Xeon E5-2687W V3,3.1GHz,10,18,97,16 GB,49,1024,2323,Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.122,Intel Xeon E5-2687W V3,3.1GHz,10,18,7,16 GB,99,1024,4689,Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.124,Intel Xeon E5-2687W V3,3.1GHz,10,18,1,16 GB,3,512,33666,Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.128,Intel Xeon E5-2687W V3,3.1GHz,10,18,54,16 GB,93,4048,347,Staging,Linux,Debian,255.255 255.0,Physical
+192.168.0.130,Intel Xeon E5-2687W V3,3.1GHz,10,18,98,16 GB,33,2024,4689,Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.216,Intel Core i7-6950X (OEM/Tray),3.0GHz,10,18,50,16 GB,16,1024,2323,Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.220,Intel Core i7-6950X (OEM/Tray),3.0GHz,10,18,79,16 GB,63,128,344,Staging,Linux,Debian,255.255 255.0,Physical
+192.168.0.222,Intel Core i7-6950X (OEM/Tray),3.0GHz,10,18,53,16 GB,43,1024,888,Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.224,Intel Core i7-6950X (OEM/Tray),3.0GHz,10,18,52,16 GB,11,512,906,Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.266,Intel Core i9-7900X,3.3GHz,10,18,0,16 GB,87,512,33666,Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.272,Intel Core i9-7900X,3.3GHz,10,18,52,16 GB,26,2024,344,Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.274,Intel Core i9-7900X,3.3GHz,10,18,18,16 GB,31,2024,658,Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.300,Intel Xeon E5-2640 V4,2.4GHz,10,18,34,16 GB,28,1024,4689,Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.302,Intel Xeon E5-2640 V4,2.4GHz,10,18,99,16 GB,45,256,233,Staging,Linux,Debian,255.255 255.0,Physical
+192.168.0.304,Intel Xeon E5-2640 V4,2.4GHz,10,18,67,16 GB,71,2024,233,Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.372,Intel Xeon E5-2680 V2,2.8GHz,10,18,19,16 GB,57,1024,4556,Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.0.374,Intel Xeon E5-2680 V2,2.8GHz,10,18,58,16 GB,46,2024,4556,Staging,Linux,Debian,255.255 255.0,Physical
+192.168.0.406,Intel Xeon E5-2630 V4,2.2GHz,10,18,45,16 GB,62,256,658,Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.410,Intel Xeon E5-2630 V4,2.2GHz,10,18,70,16 GB,57,1024,2323,Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.414,Intel Xeon E5-2630 V4,2.2GHz,10,18,43,16 GB,94,128,347,Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.344,Intel Xeon E5-2680 V2,2.8GHz,10,18,,16 GB,74,256,344,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.416,Intel Xeon E5-2630 V4,2.2GHz,10,18,1,16 GB,72,1024,906,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.424,Intel Xeon E5-2630 V4,2.2GHz,10,18,40,16 GB,7,1024,33,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.1.432,Intel Xeon E5-2630 V4,2.2GHz,10,18,77,16 GB,58,128,888,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.552,Intel Core i9-7900X,3.3GHz,10,18,62,16 GB,18,256,344,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.556,Intel Core i9-7900X,3.3GHz,10,18,17,16 GB,81,128,340,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.560,Intel Core i9-7900X,3.3GHz,10,18,54,16 GB,19,4048,46,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.568,Intel Core i9-7900X,3.3GHz,10,18,95,16 GB,41,128,46,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.616,Intel Xeon E5-2640 V4,2.4GHz,10,18,20,16 GB,84,1024,347,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.620,Intel Xeon E5-2640 V4,2.4GHz,10,18,52,16 GB,43,1024,344,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.624,Intel Xeon E5-2640 V4,2.4GHz,10,18,30,16 GB,72,1024,4577,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.756,Intel Xeon E5-2680 V2,2.8GHz,10,18,0,16 GB,48,128,66778,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.764,Intel Xeon E5-2680 V2,2.8GHz,10,18,28,16 GB,2,2024,4556,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.836,Intel Core i9-7900X,3.3GHz,10,18,96,16 GB,91,1024,233,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.1.844,Intel Core i9-7900X,3.3GHz,10,18,32,16 GB,87,256,4556,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.900,Intel Xeon E5-2640 V4,2.4GHz,10,18,96,16 GB,50,256,4689,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.908,Intel Xeon E5-2640 V4,2.4GHz,10,18,88,16 GB,49,2024,340,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.1040,Intel Xeon E5-2680 V2,2.8GHz,10,18,36,16 GB,86,512,340,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.1.1044,Intel Xeon E5-2680 V2,2.8GHz,10,18,82,16 GB,64,1024,347,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.1048,Intel Xeon E5-2680 V2,2.8GHz,10,18,25,16 GB,,128,88,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.1112,Intel Core i9-7900X,3.3GHz,10,18,58,16 GB,31,1024,66778,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.1124,Intel Core i9-7900X,3.3GHz,10,18,12,16 GB,66,256,4556,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.0.100,Intel Xeon E5-2697 V2,2.7GHz,12,20,48,16 GB,18,1024,367,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Physical
+192.168.0.102,Intel Xeon E5-2697 V2,2.7GHz,12,20,89,16 GB,33,4048,4556,Dev / Staging,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.106,Intel Xeon E5-2697 V2,2.7GHz,12,20,58,16 GB,14,4048,347,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.114,Intel Xeon E5-2695 V2,2.4GHz,12,20,47,16 GB,62,512,888,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.0.116,Intel Xeon E5-2695 V2,2.4GHz,12,20,53,16 GB,6,1024,344,Dev / Staging,Linux,SUSE,255.255 255.0,Virtual
+192.168.0.118,Intel Xeon E5-2695 V2,2.4GHz,12,20,101,16 GB,5,256,180,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.132,Intel Xeon E5-2687W V4,3.0GHz,12,20,68,16 GB,87,1024,434,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.0.136,Intel Xeon E5-2687W V4,3.0GHz,12,20,98,16 GB,7,512,2323,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.142,Intel Xeon E5-2687W V4,3.0GHz,12,20,10,16 GB,35,256,347,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.160,Intel Xeon E5-2690 V3,2.6GHz,12,20,50,16 GB,30,512,2323,Dev / Staging,Linux,CentOS,255.255 255.0,Physical
+192.168.0.164,Intel Xeon E5-2690 V3,2.6GHz,12,20,66,16 GB,46,4048,2323,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.236,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,25,16 GB,85,1024,88,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.0.242,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,81,16 GB,71,2024,347,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.500,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,30,16 GB,81,256,4689,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.508,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,86,16 GB,10,512,4689,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.1.776,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,90,16 GB,8,1024,46,Dev / Staging,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.780,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,62,16 GB,27,4048,347,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.788,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,64,16 GB,8,1024,33,Dev / Staging,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.1056,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,6,16 GB,67,256,434,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.1064,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,54,16 GB,65,2024,347,Dev / Staging,Linux,Fedora,255.255 255.0,Physical
+192.168.0.84,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,67,48GB,62,256,347,Dev,Linux,Fedora,255.255 255.0,Physical
+192.168.0.148,Intel Xeon E5-2690 V4,2.6GHz,14,24,12,48GB,41,2024,88,Dev,Linux,CentOS,255.255 255.0,Physical
+192.168.0.152,Intel Xeon E5-2690 V4,2.6GHz,14,24,24,48GB,95,2024,888,Dev,Linux,Fedora,255.255 255.0,Physical
+192.168.0.228,Intel Xeon E5-2680 V4,2.4GHz,14,24,62,64GB,73,2024,4689,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.0.234,Intel Xeon E5-2680 V4,2.4GHz,14,24,82,48GB,65,4048,888,Dev,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.248,Intel Xeon E5-2660 V4,2.0GHz,14,24,23,48GB,48,2024,340,Dev,Linux,Debian,255.255 255.0,Physical
+192.168.0.254,Intel Xeon E5-2660 V4,2.0GHz,14,24,76,48GB,84,1024,4577,Dev,Linux,CentOS,255.255 255.0,Virtual
+192.168.1.212,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,45,64GB,25,4048,180,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.216,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,94,64GB,29,1024,344,Dev / Staging,Linux,Debian,255.255 255.0,Physical
+192.168.1.512,Intel Xeon E5-2660 V4,2.0GHz,14,24,97,64GB,17,128,33,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.524,Intel Xeon E5-2660 V4,2.0GHz,14,24,65,64GB,47,512,180,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.528,Intel Xeon E5-2660 V4,2.0GHz,14,24,8,64GB,46,128,66778,Dev / Staging,Linux,SUSE,255.255 255.0,Physical
+192.168.1.800,Intel Xeon E5-2660 V4,2.0GHz,14,24,43,64GB,31,1024,906,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.804,Intel Xeon E5-2660 V4,2.0GHz,14,24,7,64GB,90,256,344,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.1072,Intel Xeon E5-2660 V4,2.0GHz,14,24,35,64GB,65,128,4689,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.1.1088,Intel Xeon E5-2660 V4,2.0GHz,14,24,18,64GB,44,2024,888,Dev / Staging,Linux,Debian,255.255 255.0,Virtual
+192.168.0.170,Intel Xeon E5-2683 V4,2.1GHz,16,32,62,48 GB,22,512,2323,Prod,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.174,Intel Xeon E5-2683 V4,2.1GHz,16,32,82,48 GB,56,4048,33666,Prod,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.328,AMD Opteron 6378,2.4GHz,16,32,19,48 GB,38,256,340,Prod,Linux,Debian,255.255 255.0,Physical
+192.168.1.268,AMD Opteron 6378,2.4GHz,16,32,50,48 GB,54,2024,233,Prod,Linux,Debian,255.255 255.0,Virtual
+192.168.1.672,AMD Opteron 6378,2.4GHz,16,32,17,48 GB,29,128,233,Prod,Linux,Debian,255.255 255.0,Physical
+192.168.1.684,AMD Opteron 6378,2.4GHz,16,32,16,48 GB,56,256,347,Prod,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.688,AMD Opteron 6378,2.4GHz,16,32,45,48 GB,27,2024,66778,Prod,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.956,AMD Opteron 6378,2.4GHz,16,32,94,48 GB,24,4048,347,Prod,Linux,SUSE,255.255 255.0,Virtual
+192.168.1.964,AMD Opteron 6378,2.4GHz,16,32,60,48 GB,76,2024,340,Prod,Linux,Fedora,255.255 255.0,Virtual
+192.168.1.968,AMD Opteron 6378,2.4GHz,16,32,51,48 GB,16,1024,344,Prod,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.70,Intel Xeon E5-2699 V3 (OEM/Tray),2.3GHz,18,34,54,64 GB,27,256,347,Prod,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.74,Intel Xeon E5-2697 V4,2.3GHz,18,34,31,64 GB,5,1024,658,Prod,Linux,Debian,255.255 255.0,Physical
+192.168.0.76,Intel Xeon E5-2697 V4,2.3GHz,18,34,30,64 GB,48,128,33,Prod,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.80,Intel Xeon E5-2697 V4,2.3GHz,18,34,15,48GB,135,4048,4577,Prod,Linux,Red Hat Enterprise Linux,255.255 255.0,Virtual
+192.168.0.82,Intel Xeon E5-2697 V4,2.3GHz,18,34,25,48GB,98,4048,2323,Prod,Linux,Fedora,255.255 255.0,Physical
+192.168.1.192,Intel Xeon E5-2697 V4,2.3GHz,18,34,20,64 GB,47,256,434,Prod,Linux,CentOS,255.255 255.0,Physical
+192.168.1.196,Intel Xeon E5-2697 V4,2.3GHz,18,34,,64 GB,,1024,88,Prod,Linux,CentOS,255.255 255.0,Physical
+192.168.1.200,Intel Xeon E5-2697 V4,2.3GHz,18,34,76,64 GB,31,128,88,Prod,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.180,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,32,128 GB,10,1024,347,Prod,Linux,CentOS,255.255 255.0,Physical
+192.168.0.184,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,55,128 GB,86,1024,33,Prod,Linux,Fedora,255.255 255.0,Virtual
+192.168.0.188,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,6,128 GB,23,4048,347,Prod,Linux,CentOS,255.255 255.0,Virtual
+192.168.0.318,Intel Core 2 Extreme QX9775,3.2GHz,4,8,3,8GB,49,4048,340,Testing,Windows,Windows 8,255.255 255.0,Physical
+192.168.0.346,Intel Core i7-4770K,3.5GHz,4,8,33,12GB,88,1024,367,Testing,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.348,Intel Core i7-4770K,3.5GHz,4,8,17,12GB,2,4048,180,Testing,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.0.350,Intel Core i7-4770K,3.5GHz,4,8,57,12GB,88,1024,344,Testing,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.0.352,Intel Core i7-4770K,3.5GHz,4,8,93,12GB,53,2024,367,Testing,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.354,Intel Core i7-4770K,3.5GHz,4,8,59,12GB,38,2024,340,Testing,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.426,Intel Core i7-4790K,4.0GHz,4,8,33,12GB,23,256,66778,Testing,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.430,Intel Core i7-4790K,4.0GHz,4,8,27,12GB,65,512,88,Testing,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.432,Intel Core i7-4790K,4.0GHz,4,8,40,12GB,4,2024,658,Testing,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.434,Intel Core i7-4790K,4.0GHz,4,8,37,12GB,76,256,46,Testing,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.244,Intel Core 2 Extreme QX9775,3.2GHz,4,8,1,8GB,38,1024,347,Testing,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.248,Intel Core 2 Extreme QX9775,3.2GHz,4,8,33,8GB,46,2024,2323,Testing,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.308,Intel Core i7-4770K,3.5GHz,4,8,94,12GB,67,4048,347,Testing,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.456,Intel Core i7-4790K,4.0GHz,4,8,16,12GB,41,4048,4577,Testing,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.460,Intel Core i7-4790K,4.0GHz,4,8,34,12GB,12,1024,658,Testing,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.464,Intel Core i7-4790K,4.0GHz,4,8,79,12GB,98,4048,4577,Testing,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.468,Intel Core i7-4790K,4.0GHz,4,8,47,12GB,3,4048,4689,Testing,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.472,Intel Core i7-4790K,4.0GHz,4,8,36,12GB,16,2024,33,Testing,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.660,Intel Core 2 Extreme QX9775,3.2GHz,4,8,46,8GB,76,512,33666,Testing,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.664,Intel Core 2 Extreme QX9775,3.2GHz,4,8,61,8GB,86,1024,66778,Testing,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.716,Intel Core i7-4770K,3.5GHz,4,8,64,12GB,51,1024,180,Testing,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.720,Intel Core i7-4770K,3.5GHz,4,8,91,12GB,90,128,347,Testing,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.728,Intel Core i7-4770K,3.5GHz,4,8,59,12GB,17,256,340,Testing,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.932,Intel Core 2 Extreme QX9775,3.2GHz,4,8,6,8GB,91,2024,33,Testing,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.936,Intel Core 2 Extreme QX9775,3.2GHz,4,8,40,8GB,21,1024,33,Testing,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.944,Intel Core 2 Extreme QX9775,3.2GHz,4,8,10,8GB,17,1024,,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.948,Intel Core 2 Extreme QX9775,3.2GHz,4,8,21,8GB,51,4048,4689,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.992,Intel Core i7-4770K,3.5GHz,4,8,81,12GB,63,128,434,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.996,Intel Core i7-4770K,3.5GHz,4,8,12,12GB,68,128,4556,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.1000,Intel Core i7-4770K,3.5GHz,4,8,29,12GB,9,512,4689,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.2,Intel Xeon E5-1650 V4,3.6GHz,6,12,75,16 GB,21,256,66778,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.8,Intel Xeon E5-1650 V4,3.6GHz,6,12,21,16 GB,11,2024,888,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.10,Intel Xeon E5-1650 V4,3.6GHz,6,12,87,16 GB,67,128,2323,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.12,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,92,16 GB,86,2024,33666,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.14,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,15,16 GB,20,1024,233,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.16,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,68,16 GB,23,256,233,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.18,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,33,16 GB,36,256,658,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.20,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,6,16 GB,95,512,906,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.0.34,Intel Xeon E5-1650 V3,3.5GHz,6,12,48,16 GB,64,4048,88,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.0.38,Intel Xeon E5-1650 V3,3.5GHz,6,12,25,16 GB,15,512,888,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.0.40,Intel Xeon E5-1650 V3,3.5GHz,6,12,83,16 GB,69,128,4577,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.46,Intel Xeon E5-1650 V3,3.5GHz,6,12,79,16 GB,63,1024,46,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.48,Intel Xeon E5-1650 V3,3.5GHz,6,12,96,16 GB,10,4048,66778,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.50,Intel Core i7-5930K,3.5GHz,6,12,44,16 GB,87,512,4689,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.52,Intel Core i7-5930K,3.5GHz,6,12,87,16 GB,21,128,88,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.0.56,Intel Core i7-5930K,3.5GHz,6,12,77,16 GB,40,256,344,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.58,Intel Core i7-5930K,3.5GHz,6,12,59,16 GB,65,4048,434,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.62,Intel Core i7-5930K,3.5GHz,6,12,48,16 GB,44,2024,347,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.64,Intel Core i7-5930K,3.5GHz,6,12,71,16 GB,23,256,4689,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.206,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,48,16 GB,11,128,33666,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.210,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,,16 GB,34,1024,888,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.212,Intel Xeon E5-2643 V4 (OEM/Tray),3.4GHz,6,12,50,16 GB,44,256,46,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.338,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,88,16 GB,81,256,347,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.0.340,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,49,16 GB,94,4048,66778,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.342,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,65,16 GB,67,1024,658,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.344,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,85,16 GB,30,2024,4556,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.0.376,Intel Core i7-980,3.33GHz,6,12,73,16 GB,9,256,344,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.378,Intel Core i7-980,3.33GHz,6,12,73,16 GB,96,256,4689,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.384,Intel Core i7-980,3.33GHz,6,12,55,16 GB,26,128,888,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.398,Intel Core i7-3930K,3.2GHz,6,12,67,16 GB,71,512,4577,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.400,Intel Core i7-3930K,3.2GHz,6,12,17,16 GB,57,256,344,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.404,Intel Core i7-3930K,3.2GHz,6,12,38,16 GB,49,4048,233,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.48,Intel Xeon E5-1650 V4,3.6GHz,6,12,15,16 GB,66,256,347,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.52,Intel Xeon E5-1650 V4,3.6GHz,6,12,24,16 GB,98,256,180,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.56,Intel Xeon E5-1650 V4,3.6GHz,6,12,49,16 GB,77,128,233,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.60,Intel Xeon E5-1650 V4,3.6GHz,6,12,80,16 GB,76,2024,233,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.68,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,45,16 GB,76,2024,88,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.72,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,80,16 GB,94,128,4577,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.76,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,71,16 GB,68,512,4577,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.80,Intel Xeon E5-1650 V4 (OEM/Tray),3.6GHz,6,12,58,16 GB,45,256,33666,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.112,Intel Xeon E5-1650 V3,3.5GHz,6,12,95,16 GB,10,256,33666,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.120,Intel Xeon E5-1650 V3,3.5GHz,6,12,98,16 GB,55,256,233,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.128,Intel Xeon E5-1650 V3,3.5GHz,6,12,55,16 GB,33,4048,344,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.132,Intel Xeon E5-1650 V3,3.5GHz,6,12,72,16 GB,89,512,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.136,Intel Xeon E5-1650 V3,3.5GHz,6,12,32,16 GB,94,128,344,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.144,Intel Core i7-5930K,3.5GHz,6,12,60,16 GB,69,1024,46,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.148,Intel Core i7-5930K,3.5GHz,6,12,16,16 GB,86,1024,33,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.156,Intel Core i7-5930K,3.5GHz,6,12,49,16 GB,64,1024,4556,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.160,Intel Core i7-5930K,3.5GHz,6,12,36,16 GB,50,4048,,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.172,Intel Core i7-5930K,3.5GHz,6,12,79,16 GB,69,128,33666,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.276,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,20,16 GB,59,2024,367,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.280,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,18,16 GB,47,2024,46,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.288,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,85,16 GB,11,256,367,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.292,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,11,16 GB,88,512,180,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.356,Intel Core i7-980,3.33GHz,6,12,97,16 GB,49,2024,33666,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.364,Intel Core i7-980,3.33GHz,6,12,27,16 GB,31,512,33,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.368,Intel Core i7-980,3.33GHz,6,12,93,16 GB,96,256,2323,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.400,Intel Core i7-3930K,3.2GHz,6,12,61,16 GB,21,128,88,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.404,Intel Core i7-3930K,3.2GHz,6,12,98,16 GB,4,512,33,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.412,Intel Core i7-3930K,3.2GHz,6,12,21,16 GB,10,1024,344,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.696,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,95,16 GB,0,512,66778,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.772,Intel Core i7-980,3.33GHz,6,12,86,16 GB,93,2024,340,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.980,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,46,16 GB,5,1024,340,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.984,Intel Core i7-3960X Extreme Edition,3.3GHz,6,12,58,16 GB,20,256,367,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.22,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,26,8GB,55,128,4689,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.24,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,45,8GB,51,4048,,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.26,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,81,8GB,78,128,233,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.28,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,18,8GB,79,4048,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.30,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,26,8GB,61,4048,340,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.194,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,65,8GB,94,128,658,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.196,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,19,8GB,8,2024,180,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.198,Intel Xeon E5-1680 V3 (OEM/Tray),3.2GHz,8,16,15,8GB,60,2024,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.258,Intel Xeon E5-2650,2.0GHz,8,16,64,12GB,80,256,906,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.260,Intel Xeon E5-2650,2.0GHz,8,16,32,12GB,28,512,888,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.276,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,64,12GB,77,256,33666,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.280,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,64,12GB,15,1024,66778,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.282,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,37,12GB,76,4048,33,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.284,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,65,12GB,34,256,906,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.286,Intel Core i7-5960X,3.0GHz,8,16,35,12GB,18,256,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.288,Intel Core i7-5960X,3.0GHz,8,16,87,12GB,69,1024,33666,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.292,Intel Core i7-5960X,3.0GHz,8,16,37,12GB,75,512,906,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.294,Intel Core i7-5960X,3.0GHz,8,16,41,12GB,55,256,33,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.312,Intel Xeon E5-2640 V3,2.6GHz,8,16,24,8GB,34,4048,4577,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.0.314,Intel Xeon E5-2640 V3,2.6GHz,8,16,83,8GB,60,512,88,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.356,Intel Xeon E5-2687W,3.1GHz,8,16,84,8GB,3,1024,180,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.360,Intel Xeon E5-2687W,3.1GHz,8,16,82,8GB,13,256,33666,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.362,Intel Xeon E5-2687W,3.1GHz,8,16,85,8GB,36,4048,434,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.364,Intel Xeon E5-2687W,3.1GHz,8,16,75,8GB,35,128,347,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.386,Intel Core i7-7820X,3.6GHz,8,16,58,12GB,78,256,658,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.388,Intel Core i7-7820X,3.6GHz,8,16,15,12GB,63,128,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.390,Intel Core i7-7820X,3.6GHz,8,16,75,12GB,98,128,2323,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.394,Intel Core i7-7820X,3.6GHz,8,16,82,12GB,60,4048,66778,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.418,Intel Xeon E5-2630 V3,2.4GHz,8,16,79,8GB,78,2024,33,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.436,Intel Xeon E5-2640 V2,2.0GHz,8,16,42,12GB,44,512,4556,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.442,Intel Xeon E5-2640 V2,2.0GHz,8,16,83,12GB,25,512,340,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.88,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,59,8GB,97,2024,347,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.92,Intel Xeon E5-2630 V3 (OEM/Tray),2.4GHz,8,16,24,8GB,15,1024,66778,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.220,Intel Xeon E5-2640 V3,2.6GHz,8,16,21,8GB,69,2024,344,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.228,Intel Xeon E5-2640 V3,2.6GHz,8,16,62,8GB,99,4048,33666,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.324,Intel Xeon E5-2687W,3.1GHz,8,16,1,8GB,63,128,4689,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.328,Intel Xeon E5-2687W,3.1GHz,8,16,63,8GB,62,1024,46,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.384,Intel Core i7-7820X,3.6GHz,8,16,59,12GB,71,128,367,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.392,Intel Core i7-7820X,3.6GHz,8,16,26,12GB,62,128,347,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.436,Intel Xeon E5-2630 V3,2.4GHz,8,16,36,8GB,51,128,347,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.440,Intel Xeon E5-2630 V3,2.4GHz,8,16,36,8GB,69,256,2323,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.448,Intel Xeon E5-2630 V3,2.4GHz,8,16,36,8GB,32,2024,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.452,Intel Xeon E5-2630 V3,2.4GHz,8,16,41,8GB,62,4048,33,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.476,Intel Xeon E5-2640 V2,2.0GHz,8,16,56,12GB,73,4048,340,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.480,Intel Xeon E5-2640 V2,2.0GHz,8,16,26,12GB,51,128,347,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.484,Intel Xeon E5-2640 V2,2.0GHz,8,16,53,12GB,89,128,4556,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.488,Intel Xeon E5-2640 V2,2.0GHz,8,16,31,12GB,42,1024,33666,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.492,Intel Xeon E5-2640 V2,2.0GHz,8,16,2,12GB,45,4048,347,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.532,Intel Xeon E5-2650,2.0GHz,8,16,24,12GB,43,512,888,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.536,Intel Xeon E5-2650,2.0GHz,8,16,28,12GB,82,256,2323,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.540,Intel Xeon E5-2650,2.0GHz,8,16,26,12GB,49,256,4556,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.548,Intel Xeon E5-2650,2.0GHz,8,16,93,12GB,23,2024,233,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.572,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,13,12GB,37,512,46,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.600,Intel Core i7-5960X,3.0GHz,8,16,33,12GB,22,128,4577,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.604,Intel Core i7-5960X,3.0GHz,8,16,65,12GB,6,512,4689,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.608,Intel Core i7-5960X,3.0GHz,8,16,66,12GB,38,128,347,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.632,Intel Xeon E5-2640 V3,2.6GHz,8,16,15,8GB,41,256,367,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.640,Intel Xeon E5-2640 V3,2.6GHz,8,16,54,8GB,8,128,340,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.648,Intel Xeon E5-2640 V3,2.6GHz,8,16,16,8GB,42,128,340,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.732,Intel Xeon E5-2687W,3.1GHz,8,16,27,8GB,81,2024,906,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.736,Intel Xeon E5-2687W,3.1GHz,8,16,37,8GB,64,2024,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.740,Intel Xeon E5-2687W,3.1GHz,8,16,3,8GB,30,4048,233,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.812,Intel Xeon E5-2650,2.0GHz,8,16,19,12GB,40,512,233,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.820,Intel Xeon E5-2650,2.0GHz,8,16,8,12GB,12,128,888,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.860,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,40,12GB,96,128,4577,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.868,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,51,12GB,93,256,33666,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.880,Intel Core i7-5960X,3.0GHz,8,16,27,12GB,95,128,66778,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.884,Intel Core i7-5960X,3.0GHz,8,16,29,12GB,43,256,347,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.888,Intel Core i7-5960X,3.0GHz,8,16,35,12GB,80,256,33,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.912,Intel Xeon E5-2640 V3,2.6GHz,8,16,85,8GB,26,128,33,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.916,Intel Xeon E5-2640 V3,2.6GHz,8,16,79,8GB,62,128,66778,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.920,Intel Xeon E5-2640 V3,2.6GHz,8,16,0,8GB,4,4048,66778,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.924,Intel Xeon E5-2640 V3,2.6GHz,8,16,52,8GB,6,512,344,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.1012,Intel Xeon E5-2687W,3.1GHz,8,16,11,8GB,32,512,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.1016,Intel Xeon E5-2687W,3.1GHz,8,16,75,8GB,42,256,4577,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.1020,Intel Xeon E5-2687W,3.1GHz,8,16,96,8GB,23,2024,347,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.1024,Intel Xeon E5-2687W,3.1GHz,8,16,99,8GB,58,512,888,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.1104,Intel Xeon E5-2650,2.0GHz,8,16,25,12GB,49,128,4577,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.1144,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,51,12GB,69,512,906,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.1148,Intel Xeon E5-1660 V3 (OEM/Tray),3.0GHz,8,16,73,12GB,79,128,4556,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.1152,Intel Core i7-5960X,3.0GHz,8,16,8,12GB,35,1024,906,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.126,Intel Xeon E5-2687W V3,3.1GHz,10,18,56,16 GB,46,4048,2323,Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.218,Intel Core i7-6950X (OEM/Tray),3.0GHz,10,18,,16 GB,70,256,4689,Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.268,Intel Core i9-7900X,3.3GHz,10,18,66,16 GB,33,512,88,Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.270,Intel Core i9-7900X,3.3GHz,10,18,92,16 GB,39,2024,367,Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.296,Intel Xeon E5-2640 V4,2.4GHz,10,18,67,16 GB,37,128,4689,Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.298,Intel Xeon E5-2640 V4,2.4GHz,10,18,82,16 GB,97,1024,4689,Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.0.366,Intel Xeon E5-2680 V2,2.8GHz,10,18,65,16 GB,75,1024,46,Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.368,Intel Xeon E5-2680 V2,2.8GHz,10,18,74,16 GB,47,256,434,Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.370,Intel Xeon E5-2680 V2,2.8GHz,10,18,38,16 GB,47,128,340,Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.408,Intel Xeon E5-2630 V4,2.2GHz,10,18,21,16 GB,72,256,46,Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.412,Intel Xeon E5-2630 V4,2.2GHz,10,18,45,16 GB,45,1024,347,Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.336,Intel Xeon E5-2680 V2,2.8GHz,10,18,7,16 GB,9,512,888,Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.340,Intel Xeon E5-2680 V2,2.8GHz,10,18,40,16 GB,47,128,,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.348,Intel Xeon E5-2680 V2,2.8GHz,10,18,27,16 GB,96,2024,2323,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.352,Intel Xeon E5-2680 V2,2.8GHz,10,18,86,16 GB,96,128,340,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.420,Intel Xeon E5-2630 V4,2.2GHz,10,18,81,16 GB,41,2024,88,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.428,Intel Xeon E5-2630 V4,2.2GHz,10,18,42,16 GB,54,4048,33,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.564,Intel Core i9-7900X,3.3GHz,10,18,2,16 GB,62,4048,658,Dev / Staging,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.612,Intel Xeon E5-2640 V4,2.4GHz,10,18,97,16 GB,82,256,347,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.628,Intel Xeon E5-2640 V4,2.4GHz,10,18,12,16 GB,42,512,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.752,Intel Xeon E5-2680 V2,2.8GHz,10,18,36,16 GB,71,1024,344,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.760,Intel Xeon E5-2680 V2,2.8GHz,10,18,63,16 GB,62,512,2323,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.768,Intel Xeon E5-2680 V2,2.8GHz,10,18,16,16 GB,98,4048,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.832,Intel Core i9-7900X,3.3GHz,10,18,30,16 GB,17,512,906,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.840,Intel Core i9-7900X,3.3GHz,10,18,48,16 GB,13,128,33,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.848,Intel Core i9-7900X,3.3GHz,10,18,62,16 GB,9,4048,367,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.892,Intel Xeon E5-2640 V4,2.4GHz,10,18,70,16 GB,46,1024,888,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.896,Intel Xeon E5-2640 V4,2.4GHz,10,18,35,16 GB,55,128,367,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.904,Intel Xeon E5-2640 V4,2.4GHz,10,18,92,16 GB,91,128,46,Dev / Staging,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.1032,Intel Xeon E5-2680 V2,2.8GHz,10,18,,16 GB,54,256,4577,Dev / Staging,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.1036,Intel Xeon E5-2680 V2,2.8GHz,10,18,32,16 GB,65,1024,367,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.1116,Intel Core i9-7900X,3.3GHz,10,18,81,16 GB,81,256,906,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.1120,Intel Core i9-7900X,3.3GHz,10,18,2,16 GB,82,256,88,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.1128,Intel Core i9-7900X,3.3GHz,10,18,60,16 GB,57,4048,344,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.96,Intel Xeon E5-2697 V2,2.7GHz,12,20,59,16 GB,8,128,906,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.98,Intel Xeon E5-2697 V2,2.7GHz,12,20,75,16 GB,26,128,33666,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.104,Intel Xeon E5-2697 V2,2.7GHz,12,20,75,16 GB,93,2024,658,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.108,Intel Xeon E5-2695 V2,2.4GHz,12,20,84,16 GB,20,256,434,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.110,Intel Xeon E5-2695 V2,2.4GHz,12,20,24,16 GB,87,256,33,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.112,Intel Xeon E5-2695 V2,2.4GHz,12,20,54,16 GB,44,4048,888,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.134,Intel Xeon E5-2687W V4,3.0GHz,12,20,89,16 GB,82,512,33666,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.138,Intel Xeon E5-2687W V4,3.0GHz,12,20,65,16 GB,11,512,233,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.0.140,Intel Xeon E5-2687W V4,3.0GHz,12,20,35,16 GB,66,4048,180,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.156,Intel Xeon E5-2690 V3,2.6GHz,12,20,59,16 GB,12,1024,906,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.158,Intel Xeon E5-2690 V3,2.6GHz,12,20,14,16 GB,92,2024,233,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.162,Intel Xeon E5-2690 V3,2.6GHz,12,20,79,16 GB,87,2024,434,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.0.166,Intel Xeon E5-2690 V3,2.6GHz,12,20,73,16 GB,17,1024,347,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.238,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,4,16 GB,,512,888,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.240,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,24,16 GB,89,2024,347,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.244,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,10,16 GB,22,256,66778,Dev / Staging,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.496,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,34,16 GB,26,2024,434,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.1.504,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,38,16 GB,78,4048,180,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.784,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,76,16 GB,60,2024,434,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.1060,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,2,16 GB,71,4048,4577,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.1068,Intel Xeon E5-2680 V3 (OEM/Tray),2.5GHz,12,20,78,16 GB,51,1024,2323,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.0.86,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,89,48GB,93,1024,4577,Dev,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.88,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,66,48GB,68,1024,33666,Dev,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.90,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,,48GB,47,4048,33,Dev,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.92,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,26,48GB,46,1024,4577,Dev,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.94,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,62,48GB,94,128,906,Dev,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.144,Intel Xeon E5-2690 V4,2.6GHz,14,24,9,48GB,45,256,4556,Dev,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.146,Intel Xeon E5-2690 V4,2.6GHz,14,24,56,48GB,68,128,46,Dev,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.150,Intel Xeon E5-2690 V4,2.6GHz,14,24,11,48GB,99,2024,88,Dev,Windows,Windows 19,255.255 255.0,Physical
+192.168.0.154,Intel Xeon E5-2690 V4,2.6GHz,14,24,84,48GB,74,512,367,Dev,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.226,Intel Xeon E5-2680 V4,2.4GHz,14,24,67,64GB,79,4048,347,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.0.230,Intel Xeon E5-2680 V4,2.4GHz,14,24,75,64GB,19,4048,347,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.232,Intel Xeon E5-2680 V4,2.4GHz,14,24,97,64GB,61,1024,4577,Dev / Staging,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.246,Intel Xeon E5-2660 V4,2.0GHz,14,24,79,48GB,86,4048,33,Dev,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.250,Intel Xeon E5-2660 V4,2.0GHz,14,24,84,48GB,97,256,4689,Dev,Windows,Windows 12,255.255 255.0,Virtual
+192.168.0.252,Intel Xeon E5-2660 V4,2.0GHz,14,24,17,48GB,37,2024,367,Dev,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.208,Intel Xeon E5-2695 V3 (OEM/Tray),2.3GHz,14,24,6,64GB,98,2024,344,Dev / Staging,Windows,Windows 12,255.255 255.0,Virtual
+192.168.1.516,Intel Xeon E5-2660 V4,2.0GHz,14,24,26,64GB,69,128,340,Dev / Staging,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.520,Intel Xeon E5-2660 V4,2.0GHz,14,24,90,64GB,9,128,344,Dev / Staging,Windows,Windows 19,255.255 255.0,Physical
+192.168.1.792,Intel Xeon E5-2660 V4,2.0GHz,14,24,15,64GB,90,512,658,Dev / Staging,Windows,Windows 22,255.255 255.0,Physical
+192.168.1.796,Intel Xeon E5-2660 V4,2.0GHz,14,24,67,64GB,16,2024,4556,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.808,Intel Xeon E5-2660 V4,2.0GHz,14,24,62,64GB,79,4048,2323,Dev / Staging,Windows,Windows 8,255.255 255.0,Virtual
+192.168.1.1076,Intel Xeon E5-2660 V4,2.0GHz,14,24,46,64GB,,128,344,Dev / Staging,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.1080,Intel Xeon E5-2660 V4,2.0GHz,14,24,2,64GB,51,1024,340,Dev / Staging,Windows,Windows 20,255.255 255.0,Virtual
+192.168.1.1084,Intel Xeon E5-2660 V4,2.0GHz,14,24,64,64GB,85,512,344,Dev / Staging,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.168,Intel Xeon E5-2683 V4,2.1GHz,16,32,80,48 GB,19,4048,4577,Prod,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.172,Intel Xeon E5-2683 V4,2.1GHz,16,32,33,48 GB,50,4048,33,Prod,Windows,Windows 19,255.255 255.0,Virtual
+192.168.0.176,Intel Xeon E5-2683 V4,2.1GHz,16,32,33,48 GB,99,512,658,Prod,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.178,Intel Xeon E5-2683 V4,2.1GHz,16,32,63,48 GB,59,1024,4689,Prod,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.326,AMD Opteron 6378,2.4GHz,16,32,53,48 GB,71,128,2323,Prod,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.0.330,AMD Opteron 6378,2.4GHz,16,32,87,48 GB,87,2024,180,Prod,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.332,AMD Opteron 6378,2.4GHz,16,32,29,48 GB,91,2024,888,Prod,Windows,Windows 22,255.255 255.0,Virtual
+192.168.0.334,AMD Opteron 6378,2.4GHz,16,32,,48 GB,58,1024,2323,Prod,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.256,AMD Opteron 6378,2.4GHz,16,32,33,48 GB,3,2024,2323,Prod,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.260,AMD Opteron 6378,2.4GHz,16,32,92,48 GB,51,256,340,Prod,Windows,Windows 20,255.255 255.0,Physical
+192.168.1.264,AMD Opteron 6378,2.4GHz,16,32,24,48 GB,44,128,906,Prod,Windows,Windows 8R2,255.255 255.0,Virtual
+192.168.1.272,AMD Opteron 6378,2.4GHz,16,32,6,48 GB,54,256,46,Prod,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.676,AMD Opteron 6378,2.4GHz,16,32,53,48 GB,99,256,180,Prod,Windows,Windows 16,255.255 255.0,Virtual
+192.168.1.680,AMD Opteron 6378,2.4GHz,16,32,37,48 GB,4,512,434,Prod,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.952,AMD Opteron 6378,2.4GHz,16,32,28,48 GB,6,128,180,Prod,Windows,Windows 19,255.255 255.0,Virtual
+192.168.1.960,AMD Opteron 6378,2.4GHz,16,32,63,48 GB,58,2024,367,Prod,Windows,Windows 20,255.255 255.0,Physical
+192.168.0.68,Intel Xeon E5-2699 V3 (OEM/Tray),2.3GHz,18,34,97,64 GB,84,512,906,Prod,Windows,Windows 22,255.255 255.0,Physical
+192.168.0.72,Intel Xeon E5-2697 V4,2.3GHz,18,34,97,72 GB,16,4048,33666,Prod,Windows,Windows 20,255.255 255.0,Virtual
+192.168.0.78,Intel Xeon E5-2697 V4,2.3GHz,18,34,85,48GB,14,4048,340,Prod,Windows,Windows 16,255.255 255.0,Physical
+192.168.1.176,Intel Xeon E5-2699 V3 (OEM/Tray),2.3GHz,18,34,54,72 GB,86,4048,434,Prod,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.180,Intel Xeon E5-2699 V3 (OEM/Tray),2.3GHz,18,34,34,72 GB,55,4048,347,Prod,Windows,Windows 12,255.255 255.0,Physical
+192.168.1.184,Intel Xeon E5-2697 V4,2.3GHz,18,34,88,72 GB,69,1024,906,Prod,Windows,Windows 8,255.255 255.0,Physical
+192.168.1.188,Intel Xeon E5-2697 V4,2.3GHz,18,34,38,72 GB,53,128,66778,Prod,Windows,Windows 8R2,255.255 255.0,Physical
+192.168.1.204,Intel Xeon E5-2697 V4,2.3GHz,18,34,14,72 GB,3,256,906,Prod,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.182,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,20,128 GB,44,128,434,Prod,Windows,Windows 16,255.255 255.0,Physical
+192.168.0.186,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,8,128 GB,35,1024,434,Prod,Windows,Windows 16,255.255 255.0,Virtual
+192.168.0.190,Intel Xeon E5-2699 V4 (OEM/Tray),2.2GHz,22,44,65,128 GB,16,4048,4556,Prod,Windows,Windows 20,255.255 255.0,Physical
