@@ -2,8 +2,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import seaborn as sns
-import matplotlib.pyplot as plt
 import warnings
 from sklearn.preprocessing import LabelEncoder
 warnings.filterwarnings('ignore')
@@ -11,11 +9,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from kneed import KneeLocator
-import matplotlib.pyplot as plt
 #-------------------------------FUCTIONS-----------------------------------------------------------#
 
 # master function for smaller functions
-# because there are too many fucking lines
 def kmeans_master_function(dataframe, cols_list):
     x = dataframe.iloc[:,cols_list].values
 
@@ -117,7 +113,6 @@ dataframe["CPU_Speed"]=dataframe["CPU_Speed"].str.replace("GHz",'')
 dataframe["CPU_Speed"]=dataframe["CPU_Speed"].astype(float)
 
 # This column for the most parts has obj vals that can be changed to int, but has one value "Eight Core" that needs to be looked into.
-# (Why the fuck would he add a value called fucking "Eight"?????)
 # We need to change this before we can change the whole column
 
 dataframe.loc[dataframe['CPU_Core'] == 'Eight Core', 'CPU_Core'] = '8'
@@ -251,13 +246,5 @@ print(sum(scores_list)/len(scores_list))
 plt.figure(figsize= (18,7))
 sns.barplot(x = "Score", y = "Features", data= scores_dataframe)
 plt.savefig("ScoresVSFeatures.png")
-plt.show()
 
-# 2 3 4 5 6 7 8 9
-# 2,3 2,4 2,5 2,6 2,7 2,8 2,9
-# 3,5 3,7 3,8 3,9
-# 4,5 4,7 4,8 4,9
-# 5,6 5,7 5,8 5,9
-# 6,7 6,8 6,9
-# 7,8 7,9
-# 8,9
+plt.show()
